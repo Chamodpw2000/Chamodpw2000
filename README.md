@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+i'm Chamod Wanigasekara
+
 <!--
 **Chamodpw2000/Chamodpw2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
